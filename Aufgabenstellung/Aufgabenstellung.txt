@@ -1,0 +1,37 @@
+Java Programm "Java Quiz"
+
+Aufgabenstellung vom 10.10.2023
+(Start: 10.10.2023 / Ende: 23.11.2023 / Abgabe: 23.11.2023 / Abgabe-Nachbesserung: 17.12.2023)
+
+/* Legende */
+- Aufgabe
+# Unterpunkt
+
+Anforderungen:
+- Das Programm soll nach dem Start ein Hauptmenü anzeigen.
+    # Es soll folgende Auswahl möglich sein: (S) Start, (H) Highscore und (Q) Quiz beenden.
+    # Wenn Sie im Menü sind und einen Buchstaben eingeben, der nicht vorgegeben ist, soll ein Hinweistext ausgegeben werden und das Menü erneut angezeigt werden.
+    # Was passiert, wenn Sie eine Taste drücken im Menü, der kein Buchstabe ist? Überlegen Sie erst und testen Sie es dann. Versuchen Sie dafür einen Workaround (Lösung) zu finden.
+
+- Wenn das Quiz gestartet wurde, soll eine Frage ausgegeben und darunter 4 Antwortmöglichkeiten:
+    # "Was ist Java ebenfalls?"
+    # A) Eine Insel B) Ein Fluss C) Ein Königreich D) Ein Betriebssystem
+- Bitte denken Sie sich min. 5 PT-Fragen mit Antworten zu Java aus!
+    # Zum Vergleichen der Eingabe werden nur Großbuchstaben beim Auswerten der Eingabe erlaubt. Sollte ein Kleinbuchstabe eingegeben werden, so überlegen Sie was zu tun ist. (Neue Eingabe verlangen oder Kleinbuchstabe in Großbuchstaben umwandeln.)
+    # Wenn die Antwort richtig war, soll die nächste Frage ausgegeben werden usw.
+    # Wurde aber eine falsche Antwort gegeben, soll eine Ausgabe erfolgen, dass die falsche Antwort gegeben wurde und die erreichte Punkteanzahl bis dahin.
+    # Pro richtige Antwort bekommt man 1 Punkt.
+    # Anschließend soll die Eingabe des Namens für die Highscoreliste erfolgen.
+    # Danach soll eine Abfrage erfolgen, ob man noch einmal spielen möchte oder nicht.
+    # Wenn ja, werden die Fragen erneut angezeigt und wenn nicht, erscheint die Highscoreliste und das Quiz wird beendet.
+    # Lassen Sie die Fragen in zufälliger Reihenfolge anzeigen.
+    # Tip: Random-Klasse oder Math-Klasse.
+
+- Lagern sie Code in entsprechende Methoden aus z.B. menue().
+
+- 1.) Entwickeln Sie ein Struktogramm für die Eingabe der Menüauswahl, der eigentlichen Quizfragenlogik und den entsprechenden Quellcode.  auf die nächste Seite!
+
+- 2.) Schreiben Sie den entsprechenden Quellcode mit Kommentaren.  als .java-Datei!
+
+Zusatzaufgabe:
+- Bauen Sie einen Timer in das Quiz ein. Die Durchschnittszeit je Aufgabe soll in der Highscore mit angezeigt werden. Bei gleicher Highscore entscheidet die bessere Zeit über den Platz.
