@@ -1,6 +1,7 @@
 # 📁 Projekt "Java Quiz"
+### Status: ✔ abgeschlossen 
 
-Dieses Projekt diente dazu, uns anzuregen über das was wir bis dahin über Java gelernt haben nachzudenken und speziell die Themen Verzweigungen, Schleifen, Methoden und Strukturgramme zu festigen.
+<br>Dieses Projekt diente dazu, uns anzuregen über das was wir bis dahin über Java gelernt haben nachzudenken und speziell die Themen Verzweigungen, Schleifen, Methoden und Strukturgramme zu festigen.
 
 Die Aufgabenstellung habe ich im Ordner src/Aufgabenstellung abgelegt.
 
